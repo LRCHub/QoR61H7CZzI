@@ -1,16 +1,40 @@
 {
   "version": 1,
-  "base_track": "シンデレラ -ムウ Cover-",
+  "base_track": "乙女解剖 (ムウ Cover)",
   "base_artist": "MILGRAM ムウ (CV: 香里有佐)",
-  "createdAt": "2026-03-22T16:59:35.513384Z",
+  "createdAt": "2026-04-01T06:48:01.358895Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乙女解剖 - ムウ Cover",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/01_乙女解剖_-_ムウ_Cover_MILGRAM_ムウ_(CV__香里有佐).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乙女解剖 (ムウ Cover)",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/02_乙女解剖_(ムウ_Cover)_MILGRAM_ムウ_(CV__香里有佐).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乙女解剖 (ムウ Cover)",
+      "artist": "MILGRAM 楠夢羽 (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/03_乙女解剖_(ムウ_Cover)_MILGRAM_楠夢羽_(CV__香里有佐).txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "シンデレラ -ムウ Cover-",
+      "title": "乙女解剖 - ムウ Cover",
       "artist": "MILGRAM ムウ (CV: 香里有佐)",
       "has_synced": false,
-      "path": "select/pl_01_シンデレラ_-ムウ_Cover-_MILGRAM_ムウ_(CV__香里有佐).txt"
+      "path": "select/pl_01_乙女解剖_-_ムウ_Cover_MILGRAM_ムウ_(CV__香里有佐).txt"
     }
   ]
 }
